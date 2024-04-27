@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-next-js/ui-components": ["ui-components/src/index.ts"],
+      "@nx-next-js/ui-components/server": ["ui-components/src/server.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
