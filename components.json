@@ -10,7 +10,7 @@
     "cssVariables": true
   },
   "aliases": {
-    "components": "@nx-next-js/libs/ui-components/src/components",
-    "utils": "@nx-next-js/libs/ui-components/src/lib/utils"
+    "components": "libs/ui-components/src/components",
+    "utils": "libs/ui-components/src/lib/utils"
   }
 }
