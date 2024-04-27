@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@nx-next-js/ui-components": ["libs/ui-components/src/index.ts"],
+        "@nx-next-js/ui-components/*": ["libs/ui-components/src/*"]
+      }
+    }
+  }
